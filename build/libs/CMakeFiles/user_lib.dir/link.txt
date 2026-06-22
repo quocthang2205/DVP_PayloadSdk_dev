@@ -1,0 +1,2 @@
+/usr/bin/ar qc libuser_lib.a CMakeFiles/user_lib.dir/src/payload_client.cpp.o CMakeFiles/user_lib.dir/src/gimbal_attitude.cpp.o CMakeFiles/user_lib.dir/src/angle_sweep.cpp.o CMakeFiles/user_lib.dir/src/csv_logger.cpp.o CMakeFiles/user_lib.dir/src/utils.cpp.o CMakeFiles/user_lib.dir/src/camera_control.cpp.o
+/usr/bin/ranlib libuser_lib.a

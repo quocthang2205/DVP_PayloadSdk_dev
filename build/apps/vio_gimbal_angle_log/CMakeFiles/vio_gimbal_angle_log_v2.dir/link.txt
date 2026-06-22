@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++ -g CMakeFiles/vio_gimbal_angle_log_v2.dir/main.cpp.o -o vio_gimbal_angle_log_v2  ../../libs/libuser_lib.a ../../payloadsdk_libs/libPayloadSDK.a 

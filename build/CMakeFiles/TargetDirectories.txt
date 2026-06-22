@@ -1,0 +1,11 @@
+/home/thang/Gremsy/thang_payloadsdk_dev/build/CMakeFiles/edit_cache.dir
+/home/thang/Gremsy/thang_payloadsdk_dev/build/CMakeFiles/rebuild_cache.dir
+/home/thang/Gremsy/thang_payloadsdk_dev/build/payloadsdk_libs/CMakeFiles/PayloadSDK.dir
+/home/thang/Gremsy/thang_payloadsdk_dev/build/payloadsdk_libs/CMakeFiles/edit_cache.dir
+/home/thang/Gremsy/thang_payloadsdk_dev/build/payloadsdk_libs/CMakeFiles/rebuild_cache.dir
+/home/thang/Gremsy/thang_payloadsdk_dev/build/libs/CMakeFiles/user_lib.dir
+/home/thang/Gremsy/thang_payloadsdk_dev/build/libs/CMakeFiles/edit_cache.dir
+/home/thang/Gremsy/thang_payloadsdk_dev/build/libs/CMakeFiles/rebuild_cache.dir
+/home/thang/Gremsy/thang_payloadsdk_dev/build/apps/vio_gimbal_angle_log/CMakeFiles/vio_gimbal_angle_log_v2.dir
+/home/thang/Gremsy/thang_payloadsdk_dev/build/apps/vio_gimbal_angle_log/CMakeFiles/edit_cache.dir
+/home/thang/Gremsy/thang_payloadsdk_dev/build/apps/vio_gimbal_angle_log/CMakeFiles/rebuild_cache.dir
